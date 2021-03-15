@@ -3,4 +3,4 @@ The QuestionsMain allows you to play a game of 20 questions using the QuestionsG
 
 To test the QuestionsGame class, download the all three files, and run the QuestionMain.java file in an appropriate IDE while both java files are in the same folder. Next, run the file, and when prompted to read from a previous tree, type in y so it can read from the spec-questions.txt file, otherwise the computer will start off from scratch. After you've thought of an object to guess, simply respond to the yes or no questions with y or n until the program makes a guess.
 
-(NOTE: QuestionMain.java and spec-questions.txt files were not created by me and are simply provided as tools for you to test my program.)
+(NOTE: QuestionMain.java and spec-questions.txt files were not created by me and are simply provided as tools for you to test my program, QuestionsGame.java.)
